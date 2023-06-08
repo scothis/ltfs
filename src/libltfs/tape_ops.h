@@ -166,6 +166,7 @@ enum {
 	TC_DC_JAG5    = 0x55,
 	TC_DC_JAG5A   = 0x56,
 	TC_DC_JAG6    = 0x57,
+	TC_DC_JAG7    = 0x59,
 	TC_DC_JAG1E   = 0x71,
 	TC_DC_JAG2E   = 0x72,
 	TC_DC_JAG3E   = 0x73,
