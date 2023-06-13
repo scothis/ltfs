@@ -268,11 +268,12 @@ const unsigned char supported_cart[] = {
 };
 
 const unsigned char supported_density[] = {
-	TC_DC_JAG7,
+	TC_DC_JAG7E,
 	TC_DC_JAG6E,
 	TC_DC_JAG5AE,
 	TC_DC_JAG5E,
 	TC_DC_JAG4E,
+	TC_DC_JAG7,
 	TC_DC_JAG6,
 	TC_DC_JAG5A,
 	TC_DC_JAG5,

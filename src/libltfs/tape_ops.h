@@ -174,6 +174,7 @@ enum {
 	TC_DC_JAG5E   = 0x75,
 	TC_DC_JAG5AE  = 0x76,
 	TC_DC_JAG6E   = 0x77,
+	TC_DC_JAG7E   = 0x79,
 };
 
 #define ALL_MEDIA_DENSITY      0
